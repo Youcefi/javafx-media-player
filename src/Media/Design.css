@@ -1,0 +1,71 @@
+.BorderPane{
+  -fx-background-image:url("../images/6afce-10881781_1755597014665835_1331207755_n.jpg");
+  -fx-background-repeat:no-repeat;
+   -fx-background-size:500 500;
+  -fx-background-position:center;
+}
+#playButton{
+    -fx-background-image:url("../images/play.png");
+     -fx-background-color:transparent;
+     -fx-background-size:30 30;
+     -fx-background-repeat:no-repeat;
+     -fx-background-position:center;
+
+}
+#pauseButton{
+    -fx-background-image:url("../images/pause.png");
+     -fx-background-color:transparent;
+     -fx-background-size:30 30;
+     -fx-background-repeat:no-repeat;
+     -fx-background-position:center;
+
+}
+#stopButton{
+    -fx-background-image:url("../images/stop.png");
+     -fx-background-color:transparent;
+     -fx-background-size:30 30;
+     -fx-background-repeat:no-repeat;
+     -fx-background-position:center;
+
+}
+#OpenFile{
+    -fx-background-image:url("../images/open.png");
+     -fx-background-color:transparent;
+     -fx-background-size:80 80;
+     -fx-background-repeat:no-repeat;
+     -fx-background-position:center;
+
+}
+#fastButton{
+    -fx-background-image:url("../images/fast.png");
+     -fx-background-color:transparent;
+     -fx-background-size:30 30;
+     -fx-background-repeat:no-repeat;
+     -fx-background-position:center;
+
+}#fasterButton{
+     -fx-background-image:url("../images/faster.png");
+      -fx-background-color:transparent;
+      -fx-background-size:30 30;
+      -fx-background-repeat:no-repeat;
+      -fx-background-position:center;
+
+ }#slowButton{
+      -fx-background-image:url("../images/slow.png");
+       -fx-background-color:transparent;
+       -fx-background-size:30 30;
+       -fx-background-repeat:no-repeat;
+       -fx-background-position:center;
+
+  }#slowerButton{
+       -fx-background-image:url("../images/slower.png");
+        -fx-background-color:transparent;
+        -fx-background-size:30 30;
+        -fx-background-repeat:no-repeat;
+        -fx-background-position:center;
+
+   }
+   #sliderVolume,#slider{
+    -fx-control-inner-background:#0983ed;
+        -fx-color:#fff;
+   }
