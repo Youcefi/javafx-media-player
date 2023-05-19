@@ -6,19 +6,29 @@ Media Player is a simple desktop application developed using JavaFX. It allows u
 
 
 ## Features 🌟
+* 🎧 Play audio files in various formats such as MP3, WAV, FLAC, and more.
+* 🎬 Play video files in popular formats like MP4, AVI, MKV, and more.
+* ⏯️ Control playback using play, pause, stop, and more.
+* 🔊 Adjust volume and seek through the media using a slider.
 
-## Getting Started
+## Prerequisites 📋
+
+Before running the Media Player Application, make sure you have the following prerequisites in place:
+
+* **Java Development Kit (JDK)**: Make sure you have JDK 8 or higher installed on your machine.
+
+* **JavaFX**: Since the Media Player Application is built using JavaFX, you need to have JavaFX properly set up in your project. If you're using JDK 11 or later, JavaFX is no longer bundled with it. You can download JavaFX from the OpenJFX website and configure it based on your specific IDE or build tool.
+
+
+## Getting Started 🚀
 
 To run the Media Player Application on your desktop, follow these steps:
 
-1. Ensure that you have Java 8 or later installed on your system.
+1. Clone or download the repository to your local machine.
+2. Ensure that you have JavaFX properly set up in your project.
+3. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+4. Build the project to compile the source code and resolve dependencies.
 
-2. Clone this repository or download the source code.
+## License 📄
 
-3. Open the project in your preferred Java development environment (e.g., IntelliJ IDEA, Eclipse).
-
-4. Build and run the application.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the application according to the terms of this license.
+This media player application is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it according to your needs.
